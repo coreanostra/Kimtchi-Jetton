@@ -1,0 +1,14 @@
+{
+  "name": "Kimchi",
+  "symbol": "KIM",
+  "description": "Kimchi (KIM) is a whole-number loyalty point jetton designed for rewards and payments. 1 KIM equals 1 point (KRW-like), making it easy to earn through purchases and redeem for discounts, perks, and partner-merchant payments. Fixed supply (hard cap): 100,000,000,000 KIM. No further minting.",
+  "decimals": 0,
+  "image": "https://raw.githubusercontent.com/coreanostra/Kimtchi-Jetton/refs/heads/main/IMG_1365.png",
+  "external_url": "https://github.com/coreanostra/Kimtchi-Jetton",
+  "attributes": [
+    { "trait_type": "Type", "value": "Loyalty / Rewards / Payments" },
+    { "trait_type": "Supply", "value": "Fixed (Hard Cap)" },
+    { "trait_type": "Cap", "value": "100000000000" },
+    { "trait_type": "Unit", "value": "1 KIM = 1 point (KRW-like)" }
+  ]
+}
